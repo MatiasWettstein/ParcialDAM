@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParcialDAM</string>
+    <string name="title">Ingrese informacion</string>
+    <string name="guardar">Guardar informacion</string>
+    <string name="mostrar">Mostrar informacion</string>
+
+    <string-array name="info">
+        <item>Info 1</item>
+        <item>Info 2</item>
+        <item>Info 3</item>
+        <item>Info 4</item>
+        <item>Info 5</item>
+        <item>Info 6</item>
+    </string-array>
+</resources>
